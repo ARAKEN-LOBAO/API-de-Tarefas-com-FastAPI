@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#  API de Tarefas com FastAPI
-=======
 # API-de-Tarefas-com-FastAPI
->>>>>>> dc704e0fc09f8584bd13bd0fbe5662f9a0e9dd4f
 
 Este é um **mini projeto de backend em Python** utilizando **FastAPI**, desenvolvido com foco em **aprendizado**, **boas práticas** e **conceitos fundamentais de API REST**.
 
@@ -49,8 +45,5 @@ Após executar o projeto, a documentação interativa da API estará disponível
 
 ## http://localhost:8000/docs
 
-<<<<<<< HEAD
 ## uvicorn main:app --reload
-=======
-## uvicorn main:app --reload
->>>>>>> dc704e0fc09f8584bd13bd0fbe5662f9a0e9dd4f
+
